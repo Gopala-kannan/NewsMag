@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": ".",
+  "homepage": "https://gopala-kannan.github.io/NewsMag",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
